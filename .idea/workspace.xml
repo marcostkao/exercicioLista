@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e742f43a-55e5-4b63-920d-5cc61abbb2dd" name="Default Changelist" comment="" />
+    <list default="true" id="e742f43a-55e5-4b63-920d-5cc61abbb2dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercicio02/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exerciciosLista/META-INF/exerciciosLista.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exerciciosLista/exercicio01/Dicionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exerciciosLista/exercicio01/Dicionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio01/Dicionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio01/Dicionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicio02/ListaVazia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercicio02/ListaVazia.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XlV5ptOem3CzCkBIlkwewEI5hb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,14 +34,29 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.ListaVazia">
+  <component name="RunManager" selected="Application.Exercicio2">
     <configuration name="Dicionario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicio01.Dicionario" />
       <module name="exerciciosLista" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="exercicio01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio2" />
+      <module name="exerciciosLista" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -52,8 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListaVazia" />
+        <item itemvalue="Application.Exercicio2" />
         <item itemvalue="Application.Dicionario" />
+        <item itemvalue="Application.ListaVazia" />
       </list>
     </recent_temporary>
   </component>
@@ -71,33 +99,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581624814986">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="618" y="308" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581639500583">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="618" y="308" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1581639500583" />
+    <state width="1493" height="52" key="GridCell.Tab.0.bottom" timestamp="1581645301480">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581624814986" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581624814986">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="52" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581645301480" />
+    <state width="1493" height="52" key="GridCell.Tab.0.center" timestamp="1581645301480">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581624814986" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581624814986">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="52" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581645301480" />
+    <state width="1493" height="52" key="GridCell.Tab.0.left" timestamp="1581645301480">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581624814986" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581624814986">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="52" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581645301480" />
+    <state width="1493" height="52" key="GridCell.Tab.0.right" timestamp="1581645301480">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581624814986" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581621060359">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="52" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581645301480" />
+    <state x="389" y="56" width="756" height="777" key="search.everywhere.popup" timestamp="1581641276604">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581621060359" />
+    <state x="389" y="56" width="756" height="777" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1581641276604" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/exercicio01/Dicionario.java</url>
-          <line>10</line>
+          <line>7</line>
           <properties class="exercicio01.Dicionario" method="main">
             <option name="EMULATED" value="true" />
           </properties>
@@ -105,11 +142,11 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/exercicio02/ListaVazia.java</url>
-          <line>6</line>
+          <line>8</line>
           <properties class="exercicio02.ListaVazia" method="main">
             <option name="EMULATED" value="true" />
           </properties>
-          <option name="timeStamp" value="3" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

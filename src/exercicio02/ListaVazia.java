@@ -1,23 +1,41 @@
 package exercicio02;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
 
 public class ListaVazia {
     public static void main(String[] args) {
-        Map<Integer> lista = new HashMap<Integer>();
+        List<Integer> lista = new ArrayList<>();
 
+        lista.add(1);
+        lista.add(5);
+        lista.add(5);
+        lista.add(6);
+        lista.add(7);
+        lista.add(8);
+        lista.add(8);
+        lista.add(8);
 
-        lista.put(1);
-        lista.put(5);
-        lista.put(6);
-        lista.put(7);
-        lista.put(8);
-        lista.put(8);
-        lista.put(8);
+        for(Integer valor :lista){
+            System.out.println(valor);
 
-        for (Integer chave3 :lista.keySet()){
-            Integer valor = lista.get(chave3);
+        }
+
+        System.out.println("-----------------------------");
+        Set<Integer> conjunto = new HashSet<>();
+
+        conjunto.add(1);
+        conjunto.add(5);
+        conjunto.add(5);
+        conjunto.add(6);
+        conjunto.add(7);
+        conjunto.add(8);
+        conjunto.add(8);
+        conjunto.add(8);
+
+        for(Integer valor :conjunto){
             System.out.println(valor);
         }
 

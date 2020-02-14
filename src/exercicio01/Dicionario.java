@@ -2,10 +2,7 @@ package exercicio01;
 
 
 import java.util.HashMap;
-import java.util.HashSet;
-
 import java.util.Map;
-import java.util.Set;
 
 public class Dicionario {
     public static void main(String[] args) {
@@ -21,7 +18,7 @@ public class Dicionario {
 
         for (Integer chave :dicionario1.keySet()){
             String valor = dicionario1.get(chave);
-            System.out.println(valor);
+            System.out.println(chave + " - " + valor);
 
         }
 
@@ -35,18 +32,11 @@ public class Dicionario {
 
         for (String chave2 :apelido.keySet()){
             String valor = apelido.get(chave2);
-            System.out.println(valor);
+            System.out.println(chave2 + ": " + valor);
         }
 
 
-
-
-
     }
-
-
-
-
 
 
 
